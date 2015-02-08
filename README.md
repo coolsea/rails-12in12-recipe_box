@@ -4,6 +4,13 @@
 1. Users
 2. Posts
 3. Comments
+4. 上傳圖片
+5. 多重上傳圖片
+
+
+###GEM
+1. 動態新增表單：gem 'cocoon'
+2. 上傳圖片：gem 'paperclip'
 
 
 ###Github Repo
